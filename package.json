@@ -1,0 +1,10 @@
+{
+  "name": "vector-playing-cards",
+  "version": "1.0.0",
+  "description": "A collection of vector-based playing card graphics sourced from Google Code Archive",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Adam Lacoste <adam.lacoste@hotmail.com>",
+  "license": "CC-PDDC"
+}
